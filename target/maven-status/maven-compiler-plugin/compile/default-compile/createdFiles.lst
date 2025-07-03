@@ -1,0 +1,5 @@
+com/ejemplo/productos/service/ProductoService.class
+com/ejemplo/productos/controller/GlobalExceptionHandler.class
+com/ejemplo/productos/ProductosApplication.class
+com/ejemplo/productos/controller/ProductoController.class
+com/ejemplo/productos/model/Producto.class
