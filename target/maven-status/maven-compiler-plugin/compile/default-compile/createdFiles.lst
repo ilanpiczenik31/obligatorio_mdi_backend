@@ -1,0 +1,4 @@
+com/example/producto/model/Producto.class
+com/example/producto/controller/ProductoController.class
+com/example/producto/ProductoApiApplication.class
+com/example/producto/service/ProductoService.class
